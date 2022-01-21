@@ -1,3 +1,1 @@
-# Exercicios3
-Exercicios básicos 2
-Exercício de criação de uma agenda com Nome e telefone onde é possível editar, excluir e listar os dados guardados na agenda e criado um .txt com as informações contidas na agenda
+Exercício para criar uma agenda onde é armazenado o nome e o telefone do contato, capaz de inserir, listar, editar ou excluir os dados. É criado um arquivo .txt com todas as informações contidas na agenda.
